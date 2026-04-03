@@ -1,0 +1,20 @@
+{
+  "business_id": "b16",
+  "name": "AI Sprint Academy",
+  "external_url": "https://aisprintacademy.com",
+  "external_target": "https://aisprintacademy.com",
+  "external_domain": "aisprintacademy.com",
+  "runtime_path": "/businesses/b16/landing/ai-sprint-academy-self-paced-starter",
+  "offer_id": "offer_b16_core",
+  "funnel_id": "funnel_b16_core",
+  "landing_page_id": "lp_b16_ai-sprint-academy-self-paced-starter",
+  "export_files": [
+    "channels.html",
+    "checkout.html",
+    "index.html",
+    "offer.html",
+    "review-assets.json",
+    "styles.css",
+    "thank-you.html"
+  ]
+}

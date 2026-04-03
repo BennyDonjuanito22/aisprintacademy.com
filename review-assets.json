@@ -1,0 +1,101 @@
+{
+  "logo_suite": [
+    "Primary lockup: Cap plus circuit or sprint-track academic badge. with the full business name.",
+    "Icon mark: simplify the Cap plus circuit or sprint-track academic badge. into a square avatar for favicons, socials, and app badges.",
+    "Text-only wordmark: keep one clean horizontal version for signatures, invoices, PDFs, and letterhead."
+  ],
+  "support_inboxes": {
+    "primary": "support@aisprintacademy.com",
+    "sales": "hello@aisprintacademy.com",
+    "ops": "ops@aisprintacademy.com"
+  },
+  "email_signature": {
+    "display_name": "AI Sprint Academy",
+    "title_line": "Practical, encouraging, and skill-building.",
+    "website": "https://aisprintacademy.com",
+    "primary_contact": "support@aisprintacademy.com",
+    "accent": "#F59E0B"
+  },
+  "letterhead": [
+    "Top band uses the primary color, logo lockup, and one short positioning line.",
+    "Contact block shows website, support inbox, and one escalation inbox in the footer.",
+    "Invoices, proposals, and one-page PDFs keep the display font for headings and the body font for all operational copy."
+  ],
+  "social_profiles": [
+    {
+      "platform": "Instagram",
+      "handle": "@aisprintacademy",
+      "bio_focus": "Owned pages, Teachable checkout, Circle community surfaces, and cohort invitations need one clean academic sprint system"
+    },
+    {
+      "platform": "Facebook",
+      "handle": "@aisprintacademy",
+      "bio_focus": "Owned pages, Teachable checkout, Circle community surfaces, and cohort invitations need one clean academic sprint system"
+    },
+    {
+      "platform": "TikTok",
+      "handle": "@aisprintacademy",
+      "bio_focus": "Owned pages, Teachable checkout, Circle community surfaces, and cohort invitations need one clean academic sprint system"
+    },
+    {
+      "platform": "YouTube",
+      "handle": "@aisprintacademy",
+      "bio_focus": "Owned pages, Teachable checkout, Circle community surfaces, and cohort invitations need one clean academic sprint system"
+    },
+    {
+      "platform": "X",
+      "handle": "@aisprintacademy",
+      "bio_focus": "Owned pages, Teachable checkout, Circle community surfaces, and cohort invitations need one clean academic sprint system"
+    },
+    {
+      "platform": "Threads",
+      "handle": "@aisprintacademy",
+      "bio_focus": "Owned pages, Teachable checkout, Circle community surfaces, and cohort invitations need one clean academic sprint system"
+    },
+    {
+      "platform": "Pinterest",
+      "handle": "@aisprintacademy",
+      "bio_focus": "Owned pages, Teachable checkout, Circle community surfaces, and cohort invitations need one clean academic sprint system"
+    },
+    {
+      "platform": "Snapchat",
+      "handle": "@aisprintacademy",
+      "bio_focus": "Owned pages, Teachable checkout, Circle community surfaces, and cohort invitations need one clean academic sprint system"
+    },
+    {
+      "platform": "Kick",
+      "handle": "@aisprintacademy",
+      "bio_focus": "Owned pages, Teachable checkout, Circle community surfaces, and cohort invitations need one clean academic sprint system"
+    },
+    {
+      "platform": "OnlyFans",
+      "handle": "@aisprintacademy",
+      "bio_focus": "Owned pages, Teachable checkout, Circle community surfaces, and cohort invitations need one clean academic sprint system"
+    },
+    {
+      "platform": "LinkedIn",
+      "handle": "@aisprintacademy",
+      "bio_focus": "Owned pages, Teachable checkout, Circle community surfaces, and cohort invitations need one clean academic sprint system"
+    }
+  ],
+  "posting_cadence": {
+    "label": "Authority-service cadence",
+    "schedule": [
+      "Prepare 1 authority post each weekday, 2 short-form proof clips per week, and 1 email follow-up per week for review.",
+      "Tie every post to one bounded offer, one proof point, or one objection-handling angle.",
+      "Keep publication blocked until operator approval, but keep the queue continuously review-ready."
+    ],
+    "calendar": [
+      "Monday: problem statement and stakes",
+      "Tuesday: proof or diagnostic insight",
+      "Wednesday: process or walkthrough",
+      "Thursday: objection handling",
+      "Friday: CTA and scope reminder",
+      "Weekend: FAQ, recap, or evergreen library update"
+    ]
+  },
+  "merch_review_scope": [
+    "Merch is not a primary launch surface for AI Sprint Academy.",
+    "If created at all, keep it review-only and limited to leave-behind collateral, presentation decks, or operator onboarding materials."
+  ]
+}
